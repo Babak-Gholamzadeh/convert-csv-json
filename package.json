@@ -1,0 +1,25 @@
+{
+  "name": "convert-csv-json",
+  "version": "1.0.0",
+  "description": "Convert the content of a CSV file to a json and vice versa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Babak-Gholamzadeh/convert-csv-json.git"
+  },
+  "keywords": [
+    "convert",
+    "csv",
+    "json",
+    "excel"
+  ],
+  "author": "Babak Gholamzadeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Babak-Gholamzadeh/convert-csv-json/issues"
+  },
+  "homepage": "https://github.com/Babak-Gholamzadeh/convert-csv-json#readme"
+}
