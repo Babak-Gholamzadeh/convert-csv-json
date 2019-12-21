@@ -1,4 +1,4 @@
-const csv2json = csv => {
+module.exports = csv => {
     var lines = csv.split('\n');
     var fields = lines[0].split(',');
     lines.splice(0, 1);
