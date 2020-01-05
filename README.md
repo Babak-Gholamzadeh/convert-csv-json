@@ -1,6 +1,8 @@
 # convert-csv-json
 Convert the content of a CSV file to a json and vice versa
 
+[npm package](https://www.npmjs.com/package/convert-csv-json)
+
 ### Installation
 ```
 npm i convert-csv-json
